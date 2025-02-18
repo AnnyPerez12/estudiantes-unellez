@@ -1,0 +1,43 @@
+{
+    "aboutMe":"Soy [Joelby Salcedo], una estudiante apasionado por la Ingeniería en Informática. Actualmente me encuentro cursando [7mo] en [UNELLEZ]. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo [diseño grafico, c++].",
+    "softSkills":[
+        "Analitico",
+        "Liderazgo",
+        "Respetuoso",
+        "Responsabilidad",
+        "Detallista"
+
+    ],
+    "techSkills":[
+        "Python",
+        "c++",
+        "JavaScript",
+        "CSS",
+        "HTML"
+        
+    ],
+    "experience":[
+        {
+            "organization":"UNELLEZ",
+            "role":"Estudiante",
+            "since":2021,
+            "description":"Un apasionado joven que aspira superar los limites del conocimiento en la informatica, y aspira lograr todas sus metas"
+        }
+    ],
+    "projects":[
+        {
+            "title":"Bachiller en Ciencias"
+           
+        }
+    ],
+    "contact":[
+        {"name":"Linkedin",
+        "url":"https://www.linkedin.com/in/arnaldoperez/",
+        "icon":"mdiLinkedin"
+        },
+        {"name":"Github",
+        "url":"https://github.com/arnaldoperez",
+        "icon":"mdiGithub"
+        }
+    ]
+}
